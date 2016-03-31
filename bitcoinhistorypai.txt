@@ -1,0 +1,23 @@
+{
+  "AUD": "https://api.bitcoinaverage.com/history/AUD/",
+  "BRL": "https://api.bitcoinaverage.com/history/BRL/",
+  "CAD": "https://api.bitcoinaverage.com/history/CAD/",
+  "CNY": "https://api.bitcoinaverage.com/history/CNY/",
+  "EUR": "https://api.bitcoinaverage.com/history/EUR/",
+  "GBP": "https://api.bitcoinaverage.com/history/GBP/",
+  "HKD": "https://api.bitcoinaverage.com/history/HKD/",
+  "IDR": "https://api.bitcoinaverage.com/history/IDR/",
+  "ILS": "https://api.bitcoinaverage.com/history/ILS/",
+  "INR": "https://api.bitcoinaverage.com/history/INR/",
+  "JPY": "https://api.bitcoinaverage.com/history/JPY/",
+  "MXN": "https://api.bitcoinaverage.com/history/MXN/",
+  "NOK": "https://api.bitcoinaverage.com/history/NOK/",
+  "NZD": "https://api.bitcoinaverage.com/history/NZD/",
+  "PLN": "https://api.bitcoinaverage.com/history/PLN/",
+  "RON": "https://api.bitcoinaverage.com/history/RON/",
+  "RUB": "https://api.bitcoinaverage.com/history/RUB/",
+  "SEK": "https://api.bitcoinaverage.com/history/SEK/",
+  "SGD": "https://api.bitcoinaverage.com/history/SGD/",
+  "USD": "https://api.bitcoinaverage.com/history/USD/",
+  "ZAR": "https://api.bitcoinaverage.com/history/ZAR/"
+}

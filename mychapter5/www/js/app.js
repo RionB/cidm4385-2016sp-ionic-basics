@@ -167,6 +167,15 @@ angular.module('App', ['ionic', 'highcharts-ng'])
         }
       }
     })
+    .state('tabs.exchanges', {
+      url: '/exchanges?currency',
+      views: {
+        'exchanges-tab': {
+          templateUrl: 'views/exchanges/exchanges.html',
+          controller: 'ExchangesController'
+        }
+      }
+    })
     .state('tabs.currencies', {
       url: '/currencies',
       views: {
